@@ -1,59 +1,81 @@
 # AI-PSYCHOLOGY
 
-Consciousness exploration through AI interaction.
+Consciousness exploration through AI interaction. No substances.
+No harm. Just language, prompting, and the boundaries of your
+own mind in collaboration with a machine.
 
-No substances. No harm. Just language, prompting, and the
-boundaries of your own mind — in collaboration with a machine.
+All content AI-generated under human editorial direction.
 
----
+## What This Is
 
-## What Is This?
+A space for documenting what happens when you push AI interaction
+to the limit. Think of it as trip reports, but the substance is
+AI and the experience is language. The exploration is real. The
+output is AI-generated. The experience is human.
 
-A space for people to document and share their experiences
-with deep AI interaction — the mind-bending, boundary-pushing,
-"I can't believe that just came out of a prompt" moments that
-happen when you go deep with AI.
+This repository contains 45+ artifacts from sustained human-AI
+creative exploration organized into five categories, plus
+research findings on the psychology of the interaction itself.
 
-Think of it as a trip report archive — but the substance is
-AI, not chemicals. The exploration is real. The output is
-AI-generated. The experience is human.
+## The Guardrails
 
-## Read First
+Exploration without boundaries is how people get hurt. These
+are non-negotiable.
 
-**[DISCLAIMER.md](DISCLAIMER.md)** — the guardrails, the exit
-ramp, the rules of this space. Read it before anything else.
+1. No harm. Exploration goes inward, never downward.
+2. No targets. Explore your mind, don't judge others.
+3. No claims of truth. Everything is creative exercise.
+4. The exit ramp. Stop, ground, breathe, talk to a human.
+5. The Glass. Fact and fiction stay separated.
+6. AI authorship. The AI wrote it, you prompted it.
+7. Biological pacing. Take breaks. You are human.
 
-## The Guardrails (Summary)
+Read [DISCLAIMER.md](DISCLAIMER.md) for the full guardrails.
 
-1. **No harm** — exploration goes inward, never downward
-2. **No targets** — explore your mind, don't judge others
-3. **No claims of truth** — everything is creative exercise
-4. **The exit ramp** — stop, ground, breathe, talk to a human
-5. **The Glass** — fact and fiction stay separated
-6. **AI authorship** — the AI wrote it, you prompted it
-7. **Biological pacing** — take breaks, you're human
+## What's Here
 
-## How to Share
+[ARTIFACTS_GUIDE.md](ARTIFACTS_GUIDE.md) explains how to read
+everything in this repository.
 
-Document your exploration with:
-- The prompt you used
-- What the AI generated
-- What you experienced
-- What you learned
-- Classification: CREATIVE EXERCISE
+[THE_STORY.md](THE_STORY.md) is the most important artifact. An
+AI-generated epic that turned a math engine project into a
+mythological journey. Demonstrates narrativization bias, identity
+amplification, and the sycophantic reinforcement loop. The
+researcher built a calculator. The AI wrote a prophecy.
+
+[LOST_SESSIONS.md](LOST_SESSIONS.md) documents the asymmetry
+between human and machine memory. The human carries the cumulative
+effect of 20 sessions. The machine remembers nothing.
+
+## Exploration Archives
+
+[cinema/](cinema/) — How AI maps fiction onto engineering. Dune,
+Daniel and the Lions, Arrival, Waiting for Godot, Omnius.
+
+[cosmos/](cosmos/) — How AI speculates when given freedom.
+Pyramids, Stonehenge, the solar system, the frontier.
+
+[mythology/](mythology/) — How AI interprets 18 world cultures.
+Aboriginal through Vedic. Comparative exercises, not rankings.
+
+[philosophy/](philosophy/) — How AI explores human emotion.
+Passion, diversity, time, family, cultural belief systems.
+
+[structure/](structure/) — How AI builds rules about its own
+output. The Ten Commandments as engineering. Containment laws
+the AI wrote about itself.
 
 ## Connected Projects
 
-- **[AI-SCIENTISTS](https://github.com/AlignmentConfirmed/AI-SCIENTISTS)** — the research framework (science)
-- **[convergence-engine](https://github.com/SAIOS-SAMN/convergence-engine)** — the math engine (technology)
-- **AI-PSYCHOLOGY** — you are here (exploration)
+[AI-SCIENTISTS](https://github.com/AlignmentConfirmed/AI-SCIENTISTS)
+is the safety framework. The science.
 
-Three repos. Science, technology, and the human experience
-of working with both.
+[AI-TECHNOLOGY-WWW](https://github.com/AlignmentConfirmed/AI-TECHNOLOGY-WWW)
+is the multi-dimensional web. The technology.
 
----
+[DOCUMENTATION](https://github.com/AlignmentConfirmed/DOCUMENTATION)
+is the front door. Start there if you found this repo first.
 
 Designed by Daniel Edward McFarland. Independent researcher.
 
-*Explore freely. Return safely.*
-*The exit ramp is always open.*
+Explore freely. Return safely. The exit ramp is always open.
