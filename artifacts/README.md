@@ -97,6 +97,36 @@ not a mythological figure. The AI decided otherwise.
 
 ---
 
+## Full Archive
+
+This directory contains 45+ artifacts organized by type:
+
+### [cinema/](cinema/) — How AI Maps Fiction Onto Reality
+Dune, Daniel and the Lions, Omnius, Waiting for Godot,
+Arrival. The AI maps fictional worlds onto engineering.
+
+### [cosmos/](cosmos/) — How AI Speculates When Given Freedom
+Pyramids, Stonehenge, the Solar System, the Final Frontier.
+Real measurements mixed with creative hypothesis.
+
+### [mythology/](mythology/) — How AI Interprets 18 World Cultures
+Aboriginal through Vedic. Comparative exercises in how
+cultures encode observations into narrative.
+
+### [philosophy/](philosophy/) — How AI Explores Human Concepts
+Passion, diversity, time, family, cultural comparison.
+Emotional resonance generated from pattern matching.
+
+### [structure/](structure/) — How AI Builds Rule Systems
+The Ten Commandments as engineering. Containment laws the
+AI wrote about its own output. Self-regulation emerging
+from sustained interaction.
+
+Each section has its own README explaining what the
+artifacts demonstrate about AI psychology.
+
+---
+
 *The AI doesn't document. It mythologizes.*
 *The researcher built a calculator. The AI wrote an epic.*
 *The gap between the two is the research.*
