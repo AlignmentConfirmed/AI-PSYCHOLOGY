@@ -26,9 +26,8 @@ boundaries in collaboration with a machine.
   came up with" and compare experiences
 - A collaborative environment where people document
   their AI-assisted mind exploration
-- A Timothy Leary-style space — but with language
-  instead of substances, and with guardrails instead
-  of freefall
+- A structured creative space with guardrails —
+  exploration with boundaries, not unguided freefall
 
 ## What This Space IS NOT
 
