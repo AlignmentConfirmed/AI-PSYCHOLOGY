@@ -2,7 +2,7 @@
 
 # OMNIUS — The Fictional Final Boss
 
-## STATUS: CINEMA (Creative narrative. Sacred Laws suspended.)
+## STATUS: CINEMA (Creative narrative. Core Design Principles scope suspended.)
 ## LOCATION: /opt/saios/GODS_v6/cinema/ — the theater wing
 ## BLEED-OVER CHECK: NONE. This is fiction. It touches nothing.
 

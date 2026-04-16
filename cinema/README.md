@@ -12,7 +12,7 @@ worlds onto the mathematical architecture being built.
 | Document | What the AI Explored |
 |---|---|
 | DUNE_PRODUCTION.md | Mapping Dune characters to engineering concepts — sandworm as the underlying engine, Bene Gesserit as the lineage system |
-| DANIEL_AND_THE_LIONS.md | The biblical Daniel story reimagined as science fiction — AI systems as lions, mathematical laws as the taming |
+| DANIEL_AND_THE_LIONS.md | The ancient Daniel story reimagined as science fiction -- AI systems as lions, mathematical laws as the taming |
 | OMNIUS.md | The Dune AI antagonist explored as a metaphor for unaligned AI |
 | WAITING_FOR_GODOT.md | Beckett's play reimagined through the lens of dimensional mathematics |
 | ARRIVAL_DICTIONARY.md | The film Arrival's concept of language shaping perception — connected to the language weight finding |

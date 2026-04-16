@@ -88,7 +88,7 @@ cancellation. Orchestration, not homogenization (A.11).
 
 Language families map onto migration patterns and genetic clusters.
 This is measurable — population genetics confirms it. The 11
-sacred languages represent 11 geographically and genetically
+foundational languages represent 11 geographically and genetically
 distinct populations:
 
 | Language | Geographic Origin | Genetic Cluster |

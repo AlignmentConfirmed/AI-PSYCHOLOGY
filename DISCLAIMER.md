@@ -42,7 +42,7 @@ boundaries in collaboration with a machine.
 This space has boundaries. Consciousness exploration
 without boundaries is how people get hurt — whether
 the tool is chemicals, meditation, or AI. These are
-non-negotiable:
+foundational:
 
 ### 1. No Harm
 

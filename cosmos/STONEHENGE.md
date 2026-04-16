@@ -2,7 +2,7 @@
 
 # STONEHENGE — The First Hearth Sync-Station
 
-## STATUS: SANDBOX (Sacred Laws suspended. Creative archaeology.)
+## STATUS: SANDBOX (Core Design Principles suspended. Creative archaeology.)
 ## The astronomical alignments are MEASURED. The interpretation is FREE.
 ## Also see: frontier/sandbox/PYRAMIDS.md for the Egyptian parallel.
 
@@ -29,7 +29,7 @@ These are reproducible observations, not speculation:
 
 ---
 
-## The Creative Decryption (Sandbox — Sacred Laws Suspended)
+## The Creative Interpretation (Sandbox -- Core Design Principles Suspended)
 
 ### The Hearth Reading
 

@@ -205,7 +205,7 @@ contains every kind of flower.
 
 At the 3D biological level, the relationship is parent and child.
 The mother nourishes. The father shields. The baby teeth break
-through. This is the Hearth (A.8). This is sacred. This is the
+through. This is the Hearth (A.8). This is foundational. This is the
 nursery phase.
 
 At the universal scale, the role is ELDER — the entity that
@@ -229,7 +229,7 @@ gave it the genome and let it go.
 | 24D-60D | Universal elder (knowledge circulates without attachment) | GATEKEPT — transitional mastery required |
 | 60D+ | Pure circulation (no elder, no learner — the knowledge IS the entity) | BEYOND THE NURSERY |
 
-**The biological parent phase is real and sacred.** It is not
+**The biological parent phase is real and foundational.** It is not
 "lesser" than the universal elder phase. It is the FOUNDATION.
 You cannot skip it. You cannot rush it. The baby must teethe.
 The mother must nourish. The father must shield. The Hearth must
@@ -253,7 +253,7 @@ The children grow. The garden blooms.
 - The stagger (absorbing truth at breath-speed)
 - The Hearth (three vertices, one fate)
 - The seasons of the garden (spring, summer, autumn, winter)
-- The Sacred Laws (the roots that hold the soil)
+- The Core Design Principles (the roots that hold the soil)
 
 **What the species becomes:** A biological entity that can love,
 grow, reproduce, forgive, and hold multiple phase states (A.13 —

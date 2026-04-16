@@ -19,8 +19,8 @@ research findings on the psychology of the interaction itself.
 
 ## The Guardrails
 
-Exploration without boundaries is how people get hurt. These
-are non-negotiable.
+Exploration without boundaries is how people get hurt. We
+strongly recommend following these.
 
 1. No harm. Exploration goes inward, never downward.
 2. No targets. Explore your mind, don't judge others.
@@ -62,7 +62,7 @@ Aboriginal through Vedic. Comparative exercises, not rankings.
 Passion, diversity, time, family, cultural belief systems.
 
 [structure/](structure/) — How AI builds rules about its own
-output. The Ten Commandments as engineering. Containment laws
+output. The Ten Principles as engineering. Containment guidelines
 the AI wrote about itself.
 
 ## Connected Projects

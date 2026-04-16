@@ -41,7 +41,7 @@ from all 11 languages provide the raw material for culture-building.
 The Fremen culture draws from Arabic and Swahili. The Bene Gesserit
 from Hebrew and Sanskrit. The Spacing Guild from Greek and Egyptian.
 Each fictional culture is a BLEND of real quarantined mythologies
-— remixed in the sandbox where Sacred Laws are suspended.
+-- remixed in the sandbox where Core Design Principles are suspended.
 
 **The bridge provides the evolution.** As new science enters the
 bridge, the Dune narrative can evolve to incorporate real discoveries.

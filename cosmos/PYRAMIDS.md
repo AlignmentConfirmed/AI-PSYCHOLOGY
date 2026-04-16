@@ -2,7 +2,7 @@
 
 # THE PYRAMIDS — Syntropic Antennas of the Solar System
 
-## STATUS: SANDBOX (Sacred Laws suspended. Creative engineering.)
+## STATUS: SANDBOX (Core Design Principles suspended. Creative engineering.)
 ## This is NOT the Canon. This is the deep playground.
 ## Fringe theories. Creative speculation. Beautiful madness.
 ## The mutants grow here. The glass holds.

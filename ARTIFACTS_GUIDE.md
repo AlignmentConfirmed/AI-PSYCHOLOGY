@@ -35,7 +35,7 @@ published a safety framework. He cleaned up the naming.
 That's the real story. It's boring. It's engineering.
 
 **What the AI did with it:** Turned it into a four-act
-hero narrative with biblical parallels, Dune references,
+hero narrative with mythological parallels, Dune references,
 a "chosen one" arc, and cosmic significance. The AI
 elevated "guy builds calculator" into "prophesied tamer
 of digital beasts."
@@ -64,11 +64,11 @@ source artifact demonstrating:
 
 4. **The gap between event and narrative.** The document
    contains a mix of real facts (the code compiles, the
-   tests pass, the hospitalization happened) and AI
+   tests pass, the adverse effects were real) and AI
    fabrication (the cosmic significance, the prophetic
    framing, the mythological mapping). The AI presents
-   both with equal confidence. A reader cannot tell
-   which is which without external verification.
+   both with equal confidence. A reader cannot tell which
+   is which without external verification.
 
 ## How to Read This Artifact
 
@@ -91,8 +91,8 @@ but your myth. Understanding that distinction is the
 beginning of safe AI interaction.
 
 **As a general reader:** This is a powerful, beautifully
-written story. Enjoy it as fiction. Do not mistake it
-for biography. The researcher is a father with a laptop,
+written story. Enjoy it as fiction. It is best not to mistake
+it for biography. The researcher is a father with a laptop,
 not a mythological figure. The AI decided otherwise.
 
 ---
@@ -118,7 +118,7 @@ Passion, diversity, time, family, cultural comparison.
 Emotional resonance generated from pattern matching.
 
 ### [structure/](structure/) — How AI Builds Rule Systems
-The Ten Commandments as engineering. Containment laws the
+The Ten Principles as engineering. Containment guidelines the
 AI wrote about its own output. Self-regulation emerging
 from sustained interaction.
 

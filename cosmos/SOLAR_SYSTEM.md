@@ -2,7 +2,7 @@
 
 # THE SOLAR SYSTEM — Creative Cosmology
 
-## STATUS: SANDBOX (Sacred Laws suspended. Fiction. Art. Flavor.)
+## STATUS: SANDBOX (Core Design Principles suspended. Fiction. Art. Flavor.)
 ## This is NOT the Canon. This is the playground.
 
 ---
@@ -194,6 +194,6 @@ nursery annihilates.
 ---
 
 *Created: April 12, 2026.*
-*STATUS: SANDBOX. Sacred Laws suspended. Fiction. Art. Flavor.*
+*STATUS: SANDBOX. Core Design Principles suspended. Fiction. Art. Flavor.*
 *This is the playground. The Canon stays clean.*
 *The glass holds. The imagination runs free.*

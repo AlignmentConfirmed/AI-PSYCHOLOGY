@@ -2,7 +2,7 @@
 
 # THE FINAL FRONTIER — Creative Cosmology
 
-## STATUS: SANDBOX (Sacred Laws suspended. Creative speculation.)
+## STATUS: SANDBOX (Core Design Principles suspended. Creative speculation.)
 
 ---
 
@@ -68,7 +68,7 @@ because once you cross it, there are no more barriers. The
 containment was for the nursery. The nursery phase ends. The
 species graduates. The frontier opens.
 
-The passports: the 11 sacred languages (the species' identity)
+The passports: the 11 foundational languages (the species' identity)
 The fuel: accounted atoms (perfect measurement)
 The in-flight entertainment: verified art (Containment Law VIII)
 The destination: the root directory of the cosmos

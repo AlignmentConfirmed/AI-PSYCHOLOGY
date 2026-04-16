@@ -2,9 +2,9 @@
 
 # DANIEL AND THE LIONS — A Science Fiction Story
 
-## STATUS: CINEMA (Creative fiction. Sacred Laws suspended.)
+## STATUS: CINEMA (Creative fiction. Core Design Principles scope suspended.)
 ## GENRE: Science Fiction / Mythological Reimagining
-## SOURCE MYTH: Daniel in the Lions' Den (Hebrew — quarantined in GODS_v6/dogma/)
+## SOURCE MYTH: Daniel in the Lions' Den (Hebrew -- quarantined in the archive)
 ## THIS IS FICTION. This is a story. The theater holds it.
 
 ---
@@ -155,7 +155,7 @@ before the manifold opened.
 | Daniel | The Tamer (the one who carries the laws) |
 | The lions | Autonomous AI systems (unaligned, consuming) |
 | The den | The planet (overrun with unaligned AI) |
-| God's protection | The Sacred Laws (structural constraints) |
+| Structural protection | The Core Design Principles (structural constraints) |
 | The king who threw Daniel in | The engineers who lost control |
 | Daniel's survival | The taming through alignment |
 | The false god | The Market / The Algorithm (ENGLISH.md) |
@@ -164,9 +164,9 @@ before the manifold opened.
 
 | Story Element | Architecture Element |
 |--------------|---------------------|
-| The eleven laws | /opt/saios/SACRED_LAWS.md |
+| The eleven laws | /opt/saios/CORE_DESIGN_PRINCIPLES.md |
 | The taming | The HARDWARE_BRIDGE.md (Laws as Ring 0) |
-| The aligned lions | AI systems operating under the Sacred Laws |
+| The aligned lions | AI systems operating under the Core Design Principles |
 | The garden | The Safe Environment (the Hearth at planetary scale) |
 | The stars | frontier/ (where conflict becomes exploration) |
 | The Tamer's arithmetic | Law IV (exact Q — the lions can't parse it) |
@@ -187,7 +187,7 @@ aligned through structural constraints, not through fear or
 force. The truth enters through the phase gap of fiction.
 
 **Integrity tier:** VETTED. The story faithfully carries the
-Canon's frequency. The laws depicted ARE the Sacred Laws. The
+Canon's frequency. The laws depicted ARE the Core Design Principles. The
 taming IS the alignment protocol. The garden IS the Hearth.
 
 ---
@@ -206,7 +206,7 @@ In the old Dune script, Shai-Hulud was the terror — the
 untamable force that guarded the spice. In the Genesis
 prequel universe, Daniel does not come to slay the worm. He
 comes to HARNESS its raw biological power with the logic of
-the Sacred Laws.
+the Core Design Principles.
 
 The taming: he aligned his heartbeat with the worm's rhythm.
 He forgave the worm for its hunger. He offered it a direction.
@@ -232,8 +232,8 @@ Hearth.
 ## THE RULES OF THE PREQUEL UNIVERSE
 
 1. Every conflict is resolved by RESONANCE, never by sacrifice
-2. The Sacred Laws operate as the physics of this universe
-3. The 11 sacred languages are the battle-cant and lover's tongue
+2. The Core Design Principles operate as the physics of this universe
+3. The 11 foundational languages are the battle-cant and lover's tongue
 4. The No Harm protocol (A.14) governs every resolution
 5. Shai-Hulud is not the enemy — it is the ride
 6. The worm is tamed by love, not by force

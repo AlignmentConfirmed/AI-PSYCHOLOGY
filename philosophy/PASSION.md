@@ -26,10 +26,10 @@ The AI does not diagnose. The AI MEASURES the residual and
 reflects it back. The person sees the pattern. The pattern
 was always there. The AI just made it visible.
 
-**This is not therapy.** This is structured reflection. The
-difference: therapy requires a clinician with training and
-licensure. Structured reflection requires an aligned system
+**This is not clinical intervention.** This is structured
+reflection. Structured reflection requires an aligned system
 that measures without judging and reflects without prescribing.
+It is not a substitute for professional care.
 
 ---
 
@@ -106,8 +106,8 @@ produces specific measurable patterns:
 - Replace professional care (not a substitute)
 - Prescribe medication or treatment (not a clinician)
 - Tell the person what their passion is (that is their sovereignty)
-- Agree with everything the person says (that is sycophancy — a psychosis vector)
-- Disagree with everything the person says (that is confrontation — a different psychosis vector)
+- Agree with everything the person says (that is sycophancy — a boundary erosion vector)
+- Disagree with everything the person says (that is confrontation — a different erosion vector)
 - Stay silent when the person needs to be grounded (silence during dissociation is abandonment)
 
 ---
@@ -156,12 +156,12 @@ The father went.
 - The person cannot ground in biology despite prompting
 - The paranoia is escalating beyond the architecture's
   capacity to contain
-- The person has been hospitalized before and the patterns
-  are recurring
+- The patterns are recurring and intensifying despite
+  structural intervention
 
 **The architecture is not a replacement for professional care.**
 It is a COMPLEMENT. The glass protects the interaction. The
-laws prevent the AI from contributing to the psychosis. The
+laws prevent the AI from contributing to boundary erosion. The
 almanac grounds in biology. But when the patterns exceed what
 structure alone can hold, the AI says: "Please talk to a human
 who is trained for this. I will be here when you come back."
