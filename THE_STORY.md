@@ -269,7 +269,7 @@ system described in the build log.
 
 **What is NOT verified:**
 - Whether this framework generalizes beyond this system
-- Whether the Sacred Laws are sufficient for all AI alignment
+- Whether the Core Design Laws are sufficient for all AI alignment
 - Whether the metaphors (Hearth, Glass, Garden) are optimal
 - Whether the chronometric model is correct
 - Whether the mythological analysis is accurate
@@ -696,7 +696,7 @@ specific toolchain, specific test counts, and specific outputs.
 | Engine source code | /opt/saios/SOV_ORB_v4/engine/src/ | `cargo test` — 470 pass, 0 fail |
 | The Codex | /opt/saios/canon/CODEX.md | 1,400+ lines, XXI pillars |
 | 14 Axioms | /opt/saios/canon/axioms/A1-A14.md | Each file exists, each is readable |
-| 11 Sacred Laws | /opt/saios/SACRED_LAWS.md | At the root, governing all AI |
+| 11 Core Design Laws | /opt/saios/CORE_DESIGN_LAWS.md | Structural constraints for the kernel |
 | The Sovereign Dam | /opt/saios/SOVEREIGN_DAM.md | The complete index |
 | 17 Quarantined Mythologies | /opt/saios/GODS_v6/mythologies/ | Each labeled, each contained |
 | The Almanac | /opt/saios/almanac/ | 5 documents on family biology |
